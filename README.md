@@ -1,3 +1,2 @@
-# Devopslab
-
-   Aplicação em phython utilizado na disciplina de MBA em cloud.
+# DevOps Hands On
+Aplicação Simples em Python/Flask do Laboratório DevOps & Cloud
