@@ -1,2 +1,3 @@
-# devopslab-template
-Repositório Template para Importação do Laboratório DevOps &amp; Cloud
+# Devopslab
+
+   Aplicação em phython utilizado na disciplina de MBA em cloud.
